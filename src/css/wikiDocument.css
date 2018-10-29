@@ -1,0 +1,228 @@
+
+/* CSS는 원본의 형식을 그대로 따름 */
+.wiki-macro-footnote {
+  margin: 2em 0;
+  padding: 2em 0;
+  border-top: 1px solid #777777;
+}
+.footnote-list {
+
+  line-height: 2em;
+  display: block;
+
+}
+.wiki-edit-section{
+  float: right;
+  font-size: 14px;
+  font-weight: 500;
+
+}
+a {
+
+  color: #0275d8;
+  text-decoration: none;
+
+}
+.wiki-table {
+
+  background-color: #f5f5f5;
+  border-collapse: collapse;
+  margin: 10px 0;
+
+}
+.wiki-table td {
+
+  padding: 5px 10px;
+  border: 1px solid #dddddd;
+
+}
+table.diff tbody, .popover, .tooltip {
+
+  font-family: "Open Sans", arial, 'Apple SD Gothic Neo', 'Noto Sans CJK KR', '본고딕', 'KoPubDotum Medium', '나눔바른고딕', '나눔고딕', 'NanumGothic', '맑은고딕', 'Malgun Gothic', sans-serif;
+
+}
+.wiki-table td p {
+
+  margin: 2px;
+
+}
+.wiki-article .wiki-image {
+
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+}
+.wiki-image-space
+{
+  display:none;
+}
+.wiki-link-external {
+
+  color: #090;
+
+}
+.wiki-link-external::before {
+
+  padding: 0px 0.15em;
+  background: green;
+  color: white;
+  content: "\1F517";
+
+}
+.wiki-heading{
+  border-bottom: 1px solid #CCC;
+  padding-bottom: 5px;
+  padding-top:10px;
+  clear: both;
+
+}
+
+.catlinks {
+
+  border: 1px solid #e1e8ed;
+  padding: 0.4rem;
+  /* padding-left: 0.4rem;
+  padding-left: 1rem; */
+  box-shadow: 0.15rem 0.15rem 0 0 #cfdae2;
+  margin-bottom: 0.8rem;
+  border-radius: 0.35rem;
+  display: inline-block;
+  /* width:100% */
+
+}
+.catlinks ul {
+
+  display: inline;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-style-image: none;
+  list-style-type: none;
+  list-style-type: none;
+  list-style-image: none;
+  vertical-align: middle !ie;
+
+}
+.catlinks li:first-child {
+
+  padding-left: 0.25em;
+  border-left: none;
+
+}
+.catlinks li {
+
+  display: inline-block;
+  line-height: 1.25em;
+  border-left: 1px solid #AAA;
+  margin: 0.125em 0;
+  padding: 0 0.2em;
+  padding-left: 0.5em;
+  zoom: 1;
+  display: inline !ie;
+
+}
+/*CSS는 원본의 형식을 그대로 따름*/
+.wiki-table {
+  background-color: #f5f5f5;
+  border-collapse: collapse;
+  margin: 10px 0;
+
+}
+.wiki-table td {
+
+  padding: 5px 10px;
+  border: 1px solid #dddddd;
+
+}
+table.diff tbody, .popover, .tooltip {
+
+  font-family: "Open Sans", arial, 'Apple SD Gothic Neo', 'Noto Sans CJK KR', '본고딕', 'KoPubDotum Medium', '나눔바른고딕', '나눔고딕', 'NanumGothic', '맑은고딕', 'Malgun Gothic', sans-serif;
+
+}
+.wiki-table td p {
+
+  margin: 2px;
+
+}
+.wiki-image-space
+{
+  display:none;
+}
+
+.mw-editsection {
+
+  float: right;
+  font-size: 14px;
+  font-weight: 500;
+
+}
+
+a
+{
+
+  color: #0275d8;
+  text-decoration: none;
+
+}
+h2
+{
+
+  border-bottom: 1px solid #CCC;
+  padding-bottom: 5px;
+  padding-top:10px;
+  clear: both;
+
+}
+.catlinks {
+
+  border: 1px solid #e1e8ed;
+  padding: 0.4rem;
+  /* padding-left: 0.4rem;
+  padding-left: 1rem; */
+  box-shadow: 0.15rem 0.15rem 0 0 #cfdae2;
+  margin-bottom: 0.8rem;
+  border-radius: 0.35rem;
+  display: inline-block;
+  /* width:100% */
+
+}
+.catlinks ul {
+
+  display: inline;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-style-image: none;
+  list-style-type: none;
+  list-style-type: none;
+  list-style-image: none;
+  vertical-align: middle !ie;
+
+}
+.catlinks li:first-child {
+  padding-left: 0.25em;
+  border-left: none;
+
+}
+.catlinks li {
+  display: inline-block;
+  line-height: 1.25em;
+  border-left: 1px solid #AAA;
+  margin: 0.125em 0;
+  padding: 0 0.2em;
+  padding-left: 0.5em;
+  zoom: 1;
+  display: inline !ie;
+
+}
+.wiki-table-wrap {
+}
+body {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #373a3c;
+
+}
